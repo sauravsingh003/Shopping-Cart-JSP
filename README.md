@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/niteshchauhan0/shopping-cart-jsp?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/niteshchauhan0/shopping-cart-jsp?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/niteshchauhan0/shopping-cart-jsp?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/sauravsingh003/Shopping-Cart-JSP?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/sauravsingh003/Shopping-Cart-JSP?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/sauravsingh003/Shopping-Cart-JSP?style=for-the-badge" />
 </p>
 
 ---
@@ -44,8 +44,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/niteshchauhan0/shopping-cart-jsp.git
-cd shopping-cart-jsp
+git clone https://github.com/sauravsingh003/Shopping-Cart-JSP.git
+cd Shopping-Cart-JSP
 ```
 
 ### 2. Import in Eclipse or IntelliJ
@@ -88,5 +88,5 @@ Visit ``` http://localhost:8080/ShoppingAssessment/```
 ---
 
 👨‍💻 Author
-Made with ❤️ by Nitesh Singh
+Made with ❤️ by Saurav Singh
 
